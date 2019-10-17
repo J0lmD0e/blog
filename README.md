@@ -1,2 +1,0 @@
-# blog
-Created with CodeSandbox
